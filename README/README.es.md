@@ -56,7 +56,7 @@
 | Repositorio | Descripción | Lenguaje | Actualizado |
 | --- | --- | --- | --- |
 | [Network](https://github.com/jongwooish/Network) | Apuntes de conmutación Cisco: VLAN y trunks, RSTP, STP, MSTP y ajuste de STP, con capturas de laboratorio en EVE-NG | — | 2026-11-24 |
-| [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | — | PHP | 2026-11-20 |
+| [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | Infraestructura completa de una empresa en 8 VM Debian para una tienda online ficticia que pasa de la nube a un IDC: firewall, web en alta disponibilidad, DNS, VPN, copias y monitorización | PHP | 2026-11-20 |
 | [Server](https://github.com/jongwooish/Server) | Apuntes de Windows Server, Active Directory, guías de instalación de Debian Linux, RAID y VMware | Shell | 2026-11-20 |
 | [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | Evita que la salida larga de los comandos entre en el contexto de Claude. Ahorrador de tokens para Claude Code, en Rust y sin dependencias | Rust | 2026-11-10 |
 <!-- REPOS:END -->

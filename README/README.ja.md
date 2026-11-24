@@ -56,7 +56,7 @@
 | リポジトリ | 説明 | 言語 | 更新 |
 | --- | --- | --- | --- |
 | [Network](https://github.com/jongwooish/Network) | Cisco スイッチングのまとめ: VLAN・トランク、RSTP、STP、MSTP、STP チューニング（EVE-NG 実習キャプチャー付き） | — | 2026-11-24 |
-| [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | — | PHP | 2026-11-20 |
+| [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | 架空のオンラインショップがクラウドから IDC へ移るという設定で、Debian VM 8 台に会社のインフラ全体を構築（ファイアウォール、Web 冗長化、DNS、VPN、バックアップ、監視） | PHP | 2026-11-20 |
 | [Server](https://github.com/jongwooish/Server) | Windows Server、Active Directory、Debian Linux インストールガイド、RAID、VMware のまとめ | Shell | 2026-11-20 |
 | [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | 長いコマンド出力を Claude のコンテキストに入れない、Claude Code 用のトークン節約ツール（Rust、依存関係ゼロ） | Rust | 2026-11-10 |
 <!-- REPOS:END -->
