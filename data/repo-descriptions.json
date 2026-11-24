@@ -15,7 +15,7 @@
     "es": "Apuntes de Windows Server, Active Directory, guías de instalación de Debian Linux, RAID y VMware",
     "fr": "Notes sur Windows Server, Active Directory, guides d'installation de Debian Linux, RAID et VMware"
   },
-  "claude-squeeze": {
+  "Claude-Squeeze": {
     "en": "Keeps long command output out of Claude's context. A token saver for Claude Code, written in Rust with zero dependencies",
     "ko": "긴 명령어 출력이 Claude의 컨텍스트에 들어가지 않게 막는 Claude Code용 토큰 절약 도구 (Rust, 의존성 0개)",
     "ja": "長いコマンド出力を Claude のコンテキストに入れない、Claude Code 用のトークン節約ツール（Rust、依存関係ゼロ）",

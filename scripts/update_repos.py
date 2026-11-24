@@ -57,7 +57,7 @@ def table(repos, lang, desc):
     h = HEAD[lang]
     rows = [f"| {h[0]} | {h[1]} | {h[2]} | {h[3]} |", "| --- | --- | --- | --- |"]
     for r in repos:
-        d = desc.get(r["name"], {})
+        d = desc.get(r["name"]) or {k.lower(): v for k, v in desc.items()}.get(r["name"].lower(), {})
         text = d.get(lang) or d.get("en") or r.get("description") or "—"
         rows.append(f"| [{r['name']}]({r['html_url']}) | {cell(text)} | {r.get('language') or '—'} | {r['pushed_at'][:10]} |")
     return "\n".join(rows)
