@@ -5,15 +5,15 @@
 ## 👋 À propos
 
 - Futur **ingénieur réseaux et systèmes**, je travaille avec **Linux · Windows Server · Cisco**.
-- Compétiteur en **IT Network Systems Administration** au Concours national des métiers de Corée, pour la province de **Gyeonggi-do**.
+- Ancien compétiteur en **IT Network Systems Administration** au Concours national des métiers de Corée, pour la province de **Gyeonggi-do**.
 - Je rédige tout ce que j'étudie sous forme de notes en **six langues** et je les partage sur GitHub.
 
 ## 🏆 Distinctions
 
 | Année | Compétition | Résultat |
 | --- | --- | --- |
-| 2026 | 61e Concours national des métiers — équipe de Gyeonggi-do, IT Network Systems Administration | **🏅 Prix d'encouragement** |
-| 2026 | Concours des métiers de la province de Gyeonggi-do — IT Network Systems Administration | **🥇 Médaille d'or** |
+| 2026 | Concours des métiers de Gyeonggi-do (République de Corée) — IT Network Systems Administration | **🥇 Médaille d'or** |
+| 2026 | 61e Concours national des métiers à Incheon — représentant de Gyeonggi-do, IT Network Systems Administration | **🏅 Prix d'encouragement** |
 
 ## 🛠️ Compétences techniques
 
