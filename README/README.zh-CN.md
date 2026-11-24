@@ -56,8 +56,9 @@
 | 仓库 | 说明 | 语言 | 更新 |
 | --- | --- | --- | --- |
 | [Network](https://github.com/jongwooish/Network) | Cisco 交换学习笔记：VLAN 与 Trunk、RSTP、STP、MSTP、STP 调优（附 EVE-NG 实验截图） | — | 2026-11-24 |
-| [Server](https://github.com/jongwooish/Server) | Windows Server、Active Directory、Debian Linux 安装指南、RAID 与 VMware 笔记 | — | 2026-11-20 |
-| [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | 让冗长的命令输出不进入 Claude 上下文的 Claude Code 省 token 工具（Rust，零依赖） | Rust | 2026-11-19 |
+| [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | — | PHP | 2026-11-20 |
+| [Server](https://github.com/jongwooish/Server) | Windows Server、Active Directory、Debian Linux 安装指南、RAID 与 VMware 笔记 | Shell | 2026-11-20 |
+| [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | 让冗长的命令输出不进入 Claude 上下文的 Claude Code 省 token 工具（Rust，零依赖） | Rust | 2026-11-10 |
 <!-- REPOS:END -->
 
 ## 📊 GitHub 统计
