@@ -56,10 +56,10 @@
 <!-- REPOS:START -->
 | Repository | Description | Language | Updated |
 | --- | --- | --- | --- |
+| [Claude-Squeeze](https://github.com/jongwooish/Claude-Squeeze) | Keeps long command output out of Claude's context. A token saver for Claude Code, written in Rust with zero dependencies | Rust | 2026-11-24 |
 | [Network](https://github.com/jongwooish/Network) | Cisco switching study notes: VLANs & trunks, RSTP, STP, MSTP and STP tuning, with EVE-NG lab captures | — | 2026-11-24 |
 | [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | Built a whole company's infrastructure on 8 Debian VMs for a fictional online shop moving from the cloud to an IDC: firewall, HA web, DNS, VPN, backup and monitoring | PHP | 2026-11-20 |
 | [Server](https://github.com/jongwooish/Server) | Windows Server, Active Directory, Debian Linux install guides, RAID and VMware notes | Shell | 2026-11-20 |
-| [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | Keeps long command output out of Claude's context. A token saver for Claude Code, written in Rust with zero dependencies | Rust | 2026-11-10 |
 <!-- REPOS:END -->
 
 ## 📊 GitHub Stats

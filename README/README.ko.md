@@ -56,10 +56,10 @@
 <!-- REPOS:START -->
 | 저장소 | 설명 | 언어 | 업데이트 |
 | --- | --- | --- | --- |
+| [Claude-Squeeze](https://github.com/jongwooish/Claude-Squeeze) | 긴 명령어 출력이 Claude의 컨텍스트에 들어가지 않게 막는 Claude Code용 토큰 절약 도구 (Rust, 의존성 0개) | Rust | 2026-11-24 |
 | [Network](https://github.com/jongwooish/Network) | Cisco 스위칭 정리: VLAN·Trunk, RSTP, STP, MSTP, STP Tuning (EVE-NG 실습 캡처 포함) | — | 2026-11-24 |
 | [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | 가상의 쇼핑몰 '쫑마켓'이 클라우드에서 IDC로 옮긴다는 설정으로 Debian VM 8대에 회사 인프라 전체 구축 (방화벽, 웹 이중화, DNS, VPN, 백업, 모니터링) | PHP | 2026-11-20 |
 | [Server](https://github.com/jongwooish/Server) | Windows Server, Active Directory, Debian Linux 설치 가이드, RAID, VMware 정리 | Shell | 2026-11-20 |
-| [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | 긴 명령어 출력이 Claude의 컨텍스트에 들어가지 않게 막는 Claude Code용 토큰 절약 도구 (Rust, 의존성 0개) | Rust | 2026-11-10 |
 <!-- REPOS:END -->
 
 ## 📊 GitHub 통계
