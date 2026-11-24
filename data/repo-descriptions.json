@@ -1,0 +1,26 @@
+{
+  "Network": {
+    "en": "Cisco switching study notes: VLANs & trunks, RSTP, STP, MSTP and STP tuning, with EVE-NG lab captures",
+    "ko": "Cisco 스위칭 정리: VLAN·Trunk, RSTP, STP, MSTP, STP Tuning (EVE-NG 실습 캡처 포함)",
+    "ja": "Cisco スイッチングのまとめ: VLAN・トランク、RSTP、STP、MSTP、STP チューニング（EVE-NG 実習キャプチャー付き）",
+    "zh-CN": "Cisco 交换学习笔记：VLAN 与 Trunk、RSTP、STP、MSTP、STP 调优（附 EVE-NG 实验截图）",
+    "es": "Apuntes de conmutación Cisco: VLAN y trunks, RSTP, STP, MSTP y ajuste de STP, con capturas de laboratorio en EVE-NG",
+    "fr": "Notes sur la commutation Cisco : VLAN et trunks, RSTP, STP, MSTP et réglage de STP, avec captures de labo EVE-NG"
+  },
+  "Server": {
+    "en": "Windows Server, Active Directory, Debian Linux install guides, RAID and VMware notes",
+    "ko": "Windows Server, Active Directory, Debian Linux 설치 가이드, RAID, VMware 정리",
+    "ja": "Windows Server、Active Directory、Debian Linux インストールガイド、RAID、VMware のまとめ",
+    "zh-CN": "Windows Server、Active Directory、Debian Linux 安装指南、RAID 与 VMware 笔记",
+    "es": "Apuntes de Windows Server, Active Directory, guías de instalación de Debian Linux, RAID y VMware",
+    "fr": "Notes sur Windows Server, Active Directory, guides d'installation de Debian Linux, RAID et VMware"
+  },
+  "claude-squeeze": {
+    "en": "Keeps long command output out of Claude's context. A token saver for Claude Code, written in Rust with zero dependencies",
+    "ko": "긴 명령어 출력이 Claude의 컨텍스트에 들어가지 않게 막는 Claude Code용 토큰 절약 도구 (Rust, 의존성 0개)",
+    "ja": "長いコマンド出力を Claude のコンテキストに入れない、Claude Code 用のトークン節約ツール（Rust、依存関係ゼロ）",
+    "zh-CN": "让冗长的命令输出不进入 Claude 上下文的 Claude Code 省 token 工具（Rust，零依赖）",
+    "es": "Evita que la salida larga de los comandos entre en el contexto de Claude. Ahorrador de tokens para Claude Code, en Rust y sin dependencias",
+    "fr": "Empêche les longues sorties de commandes d'entrer dans le contexte de Claude. Économiseur de tokens pour Claude Code, en Rust et sans dépendance"
+  }
+}

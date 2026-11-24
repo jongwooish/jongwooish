@@ -1,0 +1,74 @@
+<p align="center"><img src="../assets/header.svg" alt="Jongwoo Yun — Aspiring Network &amp; System Engineer" width="100%"/></p>
+
+<p align="center"><a href="../README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.ja.md">日本語</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.es.md">Español</a> | <b>Français</b></p>
+
+## 👋 À propos
+
+- Futur **ingénieur réseaux et systèmes**, je travaille avec **Linux · Windows Server · Cisco**.
+- Compétiteur en **IT Network Systems Administration** au Concours national des métiers de Corée, pour la province de **Gyeonggi-do**.
+- Je rédige tout ce que j'étudie sous forme de notes en **six langues** et je les partage sur GitHub.
+
+## 🏆 Distinctions
+
+| Année | Compétition | Résultat |
+| --- | --- | --- |
+| 2026 | 61e Concours national des métiers — équipe de Gyeonggi-do, IT Network Systems Administration | **🏅 Prix d'encouragement** |
+| 2026 | Concours des métiers de la province de Gyeonggi-do — IT Network Systems Administration | **🥇 Médaille d'or** |
+
+## 🛠️ Compétences techniques
+
+**Réseau**
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"/> <img src="https://img.shields.io/badge/EVE--NG-2c7a7b?style=for-the-badge" alt="EVE-NG"/> <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
+</p>
+
+**Windows Server**
+
+<p>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge" alt="Windows Server"/> <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge" alt="Active Directory"/> <img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge" alt="DNS"/> <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge" alt="DHCP"/> <img src="https://img.shields.io/badge/Group%20Policy-0078D4?style=for-the-badge" alt="Group Policy"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell"/>
+</p>
+
+**Linux**
+
+<p>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
+**Virtualisation et outils**
+
+<p>
+<img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/> <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</p>
+
+## 📚 En cours d'apprentissage
+
+- VMware ESXi
+- Réseaux
+- Debian Linux
+- Cloud computing
+
+## 📂 Dépôts
+
+> Cette liste est mise à jour automatiquement chaque jour par GitHub Actions.
+
+<!-- REPOS:START -->
+| Dépôt | Description | Langage | Mis à jour |
+| --- | --- | --- | --- |
+| [Network](https://github.com/jongwooish/Network) | Notes sur la commutation Cisco : VLAN et trunks, RSTP, STP, MSTP et réglage de STP, avec captures de labo EVE-NG | — | 2026-11-24 |
+| [Server](https://github.com/jongwooish/Server) | Notes sur Windows Server, Active Directory, guides d'installation de Debian Linux, RAID et VMware | — | 2026-11-20 |
+| [claude-squeeze](https://github.com/jongwooish/claude-squeeze) | Empêche les longues sorties de commandes d'entrer dans le contexte de Claude. Économiseur de tokens pour Claude Code, en Rust et sans dépendance | Rust | 2026-11-19 |
+<!-- REPOS:END -->
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jongwooish&show_icons=true&hide_border=true&title_color=2c7a7b&icon_color=2c7a7b&text_color=4a5568&bg_color=ffffff" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooish&layout=compact&hide_border=true&title_color=2c7a7b&text_color=4a5568&bg_color=ffffff" alt="Top languages" height="165"/>
+</p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=jongwooish&hide_border=true&ring=2c7a7b&fire=2c7a7b&currStreakLabel=2c7a7b&background=ffffff" alt="GitHub streak"/></p>
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jongwooish&bg_color=ffffff&color=2c7a7b&line=2c7a7b&point=1a202c&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/></p>
+
+<p align="center"><img src="../assets/footer.svg" alt="" width="100%"/></p>
