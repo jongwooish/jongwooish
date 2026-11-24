@@ -5,15 +5,16 @@
 ## 👋 Sobre mí
 
 - Aspirante a **ingeniero de redes y sistemas**, trabajo con **Linux · Windows Server · Cisco**.
-- Excompetidor de **IT Network Systems Administration** en el Concurso Nacional de Habilidades de Corea, en representación de **Gyeonggi-do**.
+- Excompetidor de **IT Network Systems Administration** en el Concurso de Habilidades de la **República de Corea**.
+- Con la medalla de oro del Concurso de Habilidades de Gyeonggi-do 2026 me clasifiqué como **representante de Gyeonggi-do** y participé en el 61.º Concurso Nacional de Habilidades en Incheon.
 - Escribo todo lo que estudio en apuntes en **seis idiomas** y los comparto en GitHub.
 
 ## 🏆 Premios
 
 | Año | Competición | Resultado |
 | --- | --- | --- |
-| 2026 | Concurso de Habilidades de Gyeonggi-do (República de Corea) — IT Network Systems Administration | **🥇 Medalla de oro** |
-| 2026 | 61.º Concurso Nacional de Habilidades en Incheon — representante de Gyeonggi-do, IT Network Systems Administration | **🏅 Premio de reconocimiento** |
+| 2026 | Concurso de Habilidades de Gyeonggi-do — IT Network Systems Administration | **🥇 Medalla de oro** |
+| 2026 | 61.º Concurso Nacional de Habilidades en Incheon — IT Network Systems Administration | **🏅 Premio de reconocimiento** |
 
 ## 🛠️ Tecnologías
 

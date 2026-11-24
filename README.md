@@ -5,15 +5,16 @@
 ## 👋 About Me
 
 - Aspiring **Network & System Engineer** working with **Linux · Windows Server · Cisco**.
-- Former **Gyeonggi-do** representative in **IT Network Systems Administration** at the Korea National Skills Competition.
+- Former competitor in **IT Network Systems Administration** at the **Republic of Korea** Skills Competition.
+- Won the gold medal at the 2026 Gyeonggi-do Skills Competition, which qualified me as a **Gyeonggi-do representative** for the 61st National Skills Competition in Incheon.
 - I write down everything I study as notes in **six languages** and share them on GitHub.
 
 ## 🏆 Awards
 
 | Year | Competition | Result |
 | --- | --- | --- |
-| 2026 | Gyeonggi-do Skills Competition, Republic of Korea — IT Network Systems Administration | **🥇 Gold Medal** |
-| 2026 | 61st National Skills Competition in Incheon — Gyeonggi-do representative, IT Network Systems Administration | **🏅 Encouragement Award** |
+| 2026 | Gyeonggi-do Skills Competition — IT Network Systems Administration | **🥇 Gold Medal** |
+| 2026 | 61st National Skills Competition in Incheon — IT Network Systems Administration | **🏅 Encouragement Award** |
 
 ## 🛠️ Tech Stack
 
