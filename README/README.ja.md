@@ -64,12 +64,12 @@
 ## 📊 GitHub の統計
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jongwooish&show_icons=true&hide_border=true&title_color=2c7a7b&icon_color=2c7a7b&text_color=4a5568&bg_color=ffffff" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooish&layout=compact&hide_border=true&title_color=2c7a7b&text_color=4a5568&bg_color=ffffff" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jongwooish&show_icons=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooish&layout=compact&theme=blue-green&title_color=00b3ff" alt="Top languages" height="165"/>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=jongwooish&hide_border=true&ring=2c7a7b&fire=2c7a7b&currStreakLabel=2c7a7b&background=ffffff" alt="GitHub streak"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=jongwooish&theme=blue-green&title_color=00b3ff" alt="GitHub streak"/></p>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jongwooish&bg_color=ffffff&color=2c7a7b&line=2c7a7b&point=1a202c&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jongwooish&bg_color=040f0f&color=0cf574&title_color=00b3ff&line=00b3ff&point=0cf574&area=true&area_color=00b3ff&hide_border=true" alt="Contribution activity graph" width="100%"/></p>
 
 <p align="center"><img src="../assets/footer.svg" alt="" width="100%"/></p>
