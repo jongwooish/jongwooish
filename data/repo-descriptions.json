@@ -22,5 +22,13 @@
     "zh-CN": "让冗长的命令输出不进入 Claude 上下文的 Claude Code 省 token 工具（Rust，零依赖）",
     "es": "Evita que la salida larga de los comandos entre en el contexto de Claude. Ahorrador de tokens para Claude Code, en Rust y sin dependencias",
     "fr": "Empêche les longues sorties de commandes d'entrer dans le contexte de Claude. Économiseur de tokens pour Claude Code, en Rust et sans dépendance"
+  },
+  "JJongMarket-IDC-Lab": {
+    "en": "Built a whole company's infrastructure on 8 Debian VMs for a fictional online shop moving from the cloud to an IDC: firewall, HA web, DNS, VPN, backup and monitoring",
+    "ko": "가상의 쇼핑몰 '쫑마켓'이 클라우드에서 IDC로 옮긴다는 설정으로 Debian VM 8대에 회사 인프라 전체 구축 (방화벽, 웹 이중화, DNS, VPN, 백업, 모니터링)",
+    "ja": "架空のオンラインショップがクラウドから IDC へ移るという設定で、Debian VM 8 台に会社のインフラ全体を構築（ファイアウォール、Web 冗長化、DNS、VPN、バックアップ、監視）",
+    "zh-CN": "以虚构网店从云端迁往 IDC 为背景，在 8 台 Debian 虚拟机上搭建整套公司基础设施（防火墙、Web 高可用、DNS、VPN、备份、监控）",
+    "es": "Infraestructura completa de una empresa en 8 VM Debian para una tienda online ficticia que pasa de la nube a un IDC: firewall, web en alta disponibilidad, DNS, VPN, copias y monitorización",
+    "fr": "Infrastructure complète d'une entreprise sur 8 VM Debian pour une boutique en ligne fictive qui passe du cloud à un IDC : pare-feu, web haute disponibilité, DNS, VPN, sauvegardes et supervision"
   }
 }
