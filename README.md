@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooish&layout=compact&theme=blue-green&title_color=00b3ff" alt="Top languages" height="165"/>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=jongwooish&theme=blue-green&title_color=00b3ff&v=1126" alt="GitHub streak"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=jongwooish&theme=blue-green&title_color=00b3ff&v=1127" alt="GitHub streak"/></p>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jongwooish&bg_color=040f0f&color=0cf574&title_color=00b3ff&line=00b3ff&point=0cf574&area=true&area_color=00b3ff&hide_border=true" alt="Contribution activity graph" width="100%"/></p>
 
