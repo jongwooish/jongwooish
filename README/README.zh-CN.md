@@ -56,8 +56,8 @@
 <!-- REPOS:START -->
 | 仓库 | 说明 | 语言 | 更新 |
 | --- | --- | --- | --- |
+| [Network](https://github.com/jongwooish/Network) | Cisco 交换学习笔记：VLAN 与 Trunk、RSTP、STP、MSTP、STP 调优（附 EVE-NG 实验截图） | — | 2026-11-27 |
 | [SteamOS-Unattended](https://github.com/jongwooish/SteamOS-Unattended) | Unattended, idempotent setup for SteamOS (Steam Deck): Flatpak apps, distrobox containers, Hangul input and backups that survive OS updates. Tested on VMware with a custom vmwgfx build. | Shell | 2026-11-26 |
-| [Network](https://github.com/jongwooish/Network) | Cisco 交换学习笔记：VLAN 与 Trunk、RSTP、STP、MSTP、STP 调优（附 EVE-NG 实验截图） | — | 2026-11-25 |
 | [Claude-Squeeze](https://github.com/jongwooish/Claude-Squeeze) | 让冗长的命令输出不进入 Claude 上下文的 Claude Code 省 token 工具（Rust，零依赖） | Rust | 2026-11-24 |
 | [JJongMarket-IDC-Lab](https://github.com/jongwooish/JJongMarket-IDC-Lab) | 以虚构网店从云端迁往 IDC 为背景，在 8 台 Debian 虚拟机上搭建整套公司基础设施（防火墙、Web 高可用、DNS、VPN、备份、监控） | PHP | 2026-11-20 |
 | [Server](https://github.com/jongwooish/Server) | Windows Server、Active Directory、Debian Linux 安装指南、RAID 与 VMware 笔记 | Shell | 2026-11-20 |
